@@ -1,3 +1,4 @@
+nvm install 8.5
 npm install ytdl-core
 npm install discord.js
 nvm use 8
